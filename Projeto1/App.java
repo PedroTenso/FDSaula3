@@ -11,4 +11,5 @@ public class App {
         System.out.println("Categoria: "+p.classifica());
         s.close();  
     }
+    //Teste
 }
