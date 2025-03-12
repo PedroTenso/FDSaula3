@@ -9,7 +9,7 @@ public class App {
         Professor p = new Professor(nome,experiencia);
         System.out.println(p.toString());
         System.out.println("Categoria: "+p.classifica());
-        //Teste no git
+        //Teste no git solo
         s.close();  
     }
 }
